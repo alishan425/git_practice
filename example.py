@@ -10,3 +10,5 @@ def send_email(user_email):
     print(f"Sending welcome email to {user_email}...")
 
 send_email("ali@uet.edu.pk")
+
+print("Hello AliShan You are practicing Pull Request Today. You are doing great. Keep it up.")
